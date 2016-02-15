@@ -2,7 +2,7 @@
 Example project demonstrating an openFrameworks and QML project.
 
 **Note**  
-There is a conflict between:  
+There is a conflict between  
 
 ***qnamespace.h***   
 line 112: 
