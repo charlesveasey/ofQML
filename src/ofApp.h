@@ -2,8 +2,6 @@
 #include "ofMain.h"
 #include <QQmlApplicationEngine>
 #include <QQmlComponent>
-#include <QQmlProperty>
-#include <QQuickView>
 #include <QObject>
 
 class ofApp : public ofBaseApp {
