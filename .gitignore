@@ -36,4 +36,4 @@ ui_*.h
 *.
 
 #Executable
-/bin
+bin/
