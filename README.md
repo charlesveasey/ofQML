@@ -1,22 +1,22 @@
-# openFrameworksQML
-Example project demonstrating an openFrameworks and QML project
+# ofQML
+Example project demonstrating an openFrameworks and QML project.
 
 **Note**  
 There is a conflict between:  
 
-**qnamespace.h**   
+***qnamespace.h***   
 line 112: 
 ```SHIFT         = Qt::ShiftModifier,```
 
-***and***  
+*and*  
 
-**ofArduino.h***  
+***ofArduino.h***  
 line 62:
 ```#define SHIFT                                           0x05 // shiftIn/shiftOut mode```
 
 **To Fix**  
-Comment out one of these lines of code. I suggest the line in 
-**ofArduino.h*** unless of course you are using the Arduino.  
+Comment one of these lines of code. I suggest the line in 
+***ofArduino.h*** unless of course you are using the Arduino.  
 
 **More Information**  
 http://openframeworks.cc/setup/qtcreator/  
