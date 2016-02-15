@@ -66,8 +66,6 @@ Project{
             files: ["**/*.png", "**/*.qml", "**/*.qrc"]
             qbs.install: true
         }
-
-        qmlResourceFiles: ["**/qml.qrc"]
     }
 
     references: [FileInfo.joinPaths(of_root, "/libs/openFrameworksCompiled/project/qtcreator/openFrameworks.qbs")]
