@@ -32,6 +32,8 @@ ui_*.h
 *.qmlproject.user
 *.qmlproject.user.*
 
-
 #OSX
-*.DS_Store
+*.
+
+#Executable
+/bin
