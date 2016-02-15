@@ -1,5 +1,5 @@
 # ofQML
-Example project demonstrating an openFrameworks and QML project.
+Example project demonstrating openFrameworks and QML.
 
 **Issue**  
 There is a conflict between  
